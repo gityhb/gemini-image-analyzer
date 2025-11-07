@@ -71,7 +71,7 @@ VITE_FIREBASE_APP_ID="YOUR_FIREBASE_APP_ID"
 VITE_FIREBASE_MEASUREMENT_ID="YOUR_FIREBASE_MEASUREMENT_ID"
 ```
 
-### 4. 개발 서버 실행
+### 4. 서버 실행
 ```bash
 npm run dev
 ```
